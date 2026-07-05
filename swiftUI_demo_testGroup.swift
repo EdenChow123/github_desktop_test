@@ -27,6 +27,7 @@ final class swiftUI_demo_testGroup: XCTestCase {
         
         let _isVip = false
         XCTAssertEqual(false, _isVip)
+        /// 我这里修改了，mian没修改。
     }
 
 }
