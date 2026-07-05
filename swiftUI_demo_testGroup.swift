@@ -27,7 +27,12 @@ final class swiftUI_demo_testGroup: XCTestCase {
         
         let _isVip = false
         XCTAssertEqual(false, _isVip)
+        let age = 15
         /// 我这里修改了，mian没修改。
+    }
+    
+    func test_redColorisAble() {
+        let color = "Red Color"
     }
 
 }
