@@ -18,6 +18,7 @@ final class swiftUI_demo_testGroup: XCTestCase {
 
     override func tearDownWithError() throws {
         /// this is dev1
+        /// print dev2
     }
 
     
